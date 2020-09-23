@@ -1,2 +1,3 @@
-# advanced-go
-Learning advanced Go, especially concurrency.
+# Advanced Go
+
+Learning advanced Go, especially concurrency, from various sources.
